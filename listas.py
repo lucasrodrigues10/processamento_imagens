@@ -4,7 +4,6 @@ import colorsys as cs
 import math
 import time
 
-import cv2
 import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
 import numpy as np
@@ -168,10 +167,13 @@ def aplica_filtro(img_cinza):
     img = img_cinza.copy()
     alt = img.shape[0]
     larg = img.shape[1]
+    filtro = np.matrix([[1/9,1/9,1/9], [1/9,1/9,1/9],  [1/9,1/9,1/9]])
+    #filtro = np.matrix([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])  # passa altas
+    print(filtro.item(1, 1))
     for i in range(alt):
         for j in range(larg):
             try:
-                img[i][j] = (img[i - 1][j - 1] + img[i][j - 1] + img[i + 1][j - 1] + img[i - 1][j] + img[i][j] + img[i + 1][j] + img[i - 1][j + 1] + img[i][j + 1] + img[i + 1][j + 1]) / 9
+                img[i][j] = img[i - 1][j - 1] * filtro.item(0, 0) + img[i][j - 1] * filtro.item(1, 0) + img[i + 1][j - 1] * filtro.item(2, 0) + img[i - 1][j] * filtro.item(0, 1) + img[i][j] * filtro.item(1, 1) + img[i + 1][j] * filtro.item(2, 1) + img[i - 1][j + 1] * filtro.item(0, 2) + img[i][j + 1] * filtro.item(1, 2) + img[1][2] * filtro.item(2, 2)
             except:
                 pass
     return img
