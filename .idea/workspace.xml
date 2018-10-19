@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26786dee-0ec7-4303-9487-f3a0f7a0c48b" name="Default Changelist" comment="" />
+    <list default="true" id="26786dee-0ec7-4303-9487-f3a0f7a0c48b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lab_3/CARRO.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3/Terceira Atividade.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3/ativ.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3/ex_1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3/ex_1.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3/ex_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3/quad.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_4/resize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ibagens.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ibagens.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista_4/ex_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista_4/ex_2.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,13 +22,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/processamento_imagens$ex_1.coverage" NAME="ex_1 Coverage Results" MODIFIED="1538146950295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
-    <SUITE FILE_PATH="coverage/processamento_imagens$ex_4.coverage" NAME="ex_4 Coverage Results" MODIFIED="1538142368571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
     <SUITE FILE_PATH="coverage/processamento_imagens$opencv_doc.coverage" NAME="opencv_doc Coverage Results" MODIFIED="1538129658168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/terceira_lista" />
+    <SUITE FILE_PATH="coverage/processamento_imagens$ex_1.coverage" NAME="ex_1 Coverage Results" MODIFIED="1539954059707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista_4" />
+    <SUITE FILE_PATH="coverage/processamento_imagens$ex_1_3.coverage" NAME="ex_1.3 Coverage Results" MODIFIED="1539959559797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_3" />
+    <SUITE FILE_PATH="coverage/processamento_imagens$ex_2__1_.coverage" NAME="ex_2 (1) Coverage Results" MODIFIED="1539952495522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_3" />
     <SUITE FILE_PATH="coverage/processamento_imagens$ex_3.coverage" NAME="ex_3 Coverage Results" MODIFIED="1538141475330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
-    <SUITE FILE_PATH="coverage/processamento_imagens$filtro_2.coverage" NAME="filtro_2 Coverage Results" MODIFIED="1538137658334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/terceira_lista" />
     <SUITE FILE_PATH="coverage/processamento_imagens$ex_2.coverage" NAME="ex_2 Coverage Results" MODIFIED="1538139708871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
     <SUITE FILE_PATH="coverage/processamento_imagens$ex4_2.coverage" NAME="ex4_2 Coverage Results" MODIFIED="1538144631419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/terceira_lista" />
+    <SUITE FILE_PATH="coverage/processamento_imagens$ex_4.coverage" NAME="ex_4 Coverage Results" MODIFIED="1538142368571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
+    <SUITE FILE_PATH="coverage/processamento_imagens$filtro_2.coverage" NAME="filtro_2 Coverage Results" MODIFIED="1538137658334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/terceira_lista" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1452841450">
@@ -55,39 +70,42 @@
     <session id="-1283382957">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="4" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.5" value="10" />
+          <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="3" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
+          <entry key="bmp" value="2" />
+          <entry key="png" value="1" />
+          <entry key="py" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="19" />
+          <entry key="Image" value="3" />
+          <entry key="Python" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="2068" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="3333" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="9" />
-          <entry key="py" value="2068" />
+          <entry key="dummy" value="16" />
+          <entry key="py" value="3333" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -132,10 +150,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lista_4/ppt_ex.py">
+        <entry file="file://$PROJECT_DIR$/lista_4/resize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="115">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -143,14 +161,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lista_4/filtros_fft.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab_3/ex_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab_3/ex_1.3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lista_4/ex_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lista_3/numpy_fft.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -171,10 +219,17 @@
       <find>img</find>
       <find>imshow</find>
       <find>cv2.imshow</find>
+      <find>res</find>
+      <find>img_128_blur</find>
+      <find>ones</find>
+      <find>laplacian</find>
+      <find>\</find>
+      <find>fshif</find>
     </findStrings>
     <replaceStrings>
       <replace>num</replace>
       <replace>img_uni</replace>
+      <replace>img_128_blur_a</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -209,6 +264,13 @@
         <option value="$PROJECT_DIR$/lab_3/ex_1.py" />
         <option value="$PROJECT_DIR$/lista_4/extra.py" />
         <option value="$PROJECT_DIR$/lista_4/ppt_ex.py" />
+        <option value="$PROJECT_DIR$/lista_4/ex_2.py" />
+        <option value="$PROJECT_DIR$/lista_4/resize.py" />
+        <option value="$PROJECT_DIR$/lab_3/ex_2.py" />
+        <option value="$PROJECT_DIR$/lista_4/ex_1.py" />
+        <option value="$PROJECT_DIR$/lab_3/ex_3.py" />
+        <option value="$PROJECT_DIR$/lab_3/ex_1.2.py" />
+        <option value="$PROJECT_DIR$/lab_3/ex_1.3.py" />
       </list>
     </option>
   </component>
@@ -219,8 +281,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="673" />
-    <option name="width" value="694" />
+    <option name="x" value="670" />
+    <option name="width" value="695" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectView">
@@ -228,6 +290,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,11 +298,15 @@
               <item name="processamento_imagens" type="b2602c69:ProjectViewProjectNode" />
               <item name="processamento_imagens" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="processamento_imagens" type="b2602c69:ProjectViewProjectNode" />
+              <item name="processamento_imagens" type="462c0819:PsiDirectoryNode" />
+              <item name="lab_3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,18 +317,18 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\notebook\PycharmProjects\processamento_imagens\lab_2" />
-      <recent name="C:\Users\notebook\PycharmProjects\ibagens\segunda_lista" />
-      <recent name="C:\Users\notebook\PycharmProjects\ibagens\lab_1" />
-      <recent name="C:\Users\notebook\PycharmProjects\ibagens\terceira_lista" />
-      <recent name="C:\Users\notebook\PycharmProjects\ibagens\primeira_lista" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\computador\PycharmProjects\processamento_imagens\quarta_lista" />
       <recent name="C:\Users\notebook\PycharmProjects\ibagens\lab_1" />
       <recent name="C:\Users\notebook\PycharmProjects\ibagens\terceira_lista" />
       <recent name="C:\Users\notebook\PycharmProjects\ibagens" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\notebook\PycharmProjects\processamento_imagens\lab_3" />
+      <recent name="C:\Users\notebook\PycharmProjects\processamento_imagens\lab_2" />
+      <recent name="C:\Users\notebook\PycharmProjects\ibagens\segunda_lista" />
+      <recent name="C:\Users\notebook\PycharmProjects\ibagens\lab_1" />
+      <recent name="C:\Users\notebook\PycharmProjects\ibagens\terceira_lista" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -276,7 +343,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ppt_ex">
+  <component name="RunManager" selected="Python.ex_1.3">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="ibagens" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -299,7 +366,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex_1.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ibagens" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,12 +374,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quarta_lista" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quarta_lista/ex_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_3/ex_1.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,20 +388,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex_1.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ibagens" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_2/ex_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_3/ex_1.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,12 +415,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quarta_lista" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quarta_lista/ex_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista_4/ex_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,7 +429,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="extra" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="filtros_fft" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ibagens" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,7 +442,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\computador\PycharmProjects\processamento_imagens\lista_4\filtros_fft.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista_4/filtros_fft.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -410,19 +474,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex_1" />
-      <item itemvalue="Python.ex_1 (1)" />
-      <item itemvalue="Python.ex_2" />
-      <item itemvalue="Python.extra" />
       <item itemvalue="Python.ppt_ex" />
+      <item itemvalue="Python.ex_1.2" />
+      <item itemvalue="Python.filtros_fft" />
+      <item itemvalue="Python.ex_1.3" />
+      <item itemvalue="Python.ex_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ppt_ex" />
-        <item itemvalue="Python.extra" />
-        <item itemvalue="Python.ex_1 (1)" />
+        <item itemvalue="Python.ex_1.3" />
         <item itemvalue="Python.ex_2" />
-        <item itemvalue="Python.ex_1" />
+        <item itemvalue="Python.ex_1.2" />
+        <item itemvalue="Python.filtros_fft" />
+        <item itemvalue="Python.ppt_ex" />
       </list>
     </recent_temporary>
   </component>
@@ -448,15 +512,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2367223" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27309236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39942113" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39856115" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -465,11 +530,12 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.37228715" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.37122303" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="496" y="99" width="827" height="675" id="SciView" order="3" sideWeight="0.8272138" type="WINDOWED" weight="0.2966443" />
+      <window_info anchor="right" x="0" y="23" width="1536" height="801" id="SciView" order="3" sideWeight="0.8272138" type="WINDOWED" weight="0.2966443" />
       <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="4" sideWeight="0.17278618" side_tool="true" weight="0.24203338" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Key Promoter X" order="6" />
@@ -532,60 +598,111 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="np.float(img)" language="Python" />
-        <watch expression="img" language="Python" />
+        <watch expression="np.concatenate([sobel_y, np.zeros((256,256))], axis=1)" language="Python" />
+        <watch expression="np.zeros((3,3))" language="Python" />
+        <watch expression="sobel_y" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>img</expression-string>
+        <expression-string>np.concatenate([sobel_y, np.zeros((256,256))], axis=1)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>np.float(img)</expression-string>
+        <expression-string>np.concatenate([sobel_y, np.zeros((253,253))], axis=1)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>mag[50]</expression-string>
+        <expression-string>np.concatenate([sobel_y, np.zeros((3,3))], axis=0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>mag</expression-string>
+        <expression-string>np.concatenate([sobel_y, np.zeros((3,3))], axis=1)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>dft_shift[9,19]</expression-string>
+        <expression-string>np.concatenate(sobel_y, np.zeros((3,3)), axis=1)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>dft[9,19]</expression-string>
+        <expression-string>sobel_y</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>dft_shift[100,100]</expression-string>
+        <expression-string>np.zeros((3,3))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(np.array(teste))</expression-string>
+        <expression-string>np.zeros(3,3)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>np.mean(np.array(teste))</expression-string>
+        <expression-string>np.concatenate(sobel_y, np.zeros((3,3)).astype(int))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
+    </expressions>
+    <expressions id="setValue">
       <expression>
-        <expression-string>np.array(teste)</expression-string>
+        <expression-string>[[[  0   0   0]
+  [  0   0   0]
+  [  0   0   0]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[  0   0   0]
+  [  0   0   0]
+  [  0   0   0]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[  0   0   0]
+  [  0   0   0]
+  [  0   0   0]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [  0   0   0]
+  [  0   0   0]
+  [  0   0   0]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [  0   0   0]
+  [  0   0   0]
+  [  0   0   0]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [  0   0   0]
+  [  0   0   0]
+  [  0   0   0]]]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -598,9 +715,6 @@
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab_1/parte_1.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lab_1/parte_2.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -617,24 +731,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab_2.py" />
-    <entry file="file://$PROJECT_DIR$/lab_2/ex_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lista_3/opencv_fft.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista_3/numpy_fft.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -645,57 +745,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lista_3/filtro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab_2/ex_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="19" selection-start-line="19" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista_3/filtro_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab_1/extra.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-23">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab_3/ex_1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista_4/ex_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista_4/ex_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -709,44 +762,146 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/parte_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_4/codigo_barra.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_3/quad.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_3/filtro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lista_3/fft.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="48" />
+        <state relative-caret-position="161">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_3/ex_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/ex_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="19" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab_2/ex_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="23">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab_2/ex_1.py">
+    <entry file="file://$PROJECT_DIR$/lab_2/ex_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="41" />
+        <state relative-caret-position="184">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/quad.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/lista_4/ppt_ex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="143">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/ex_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_3/filtro_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_3/ex_1.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_4/ex_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="42" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_4/filtros_fft.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_4/resize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lista_4/filtros_fft.py">
+    <entry file="file://$PROJECT_DIR$/lab_3/ex_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_4/ex_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_3/numpy_fft.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_3/ex_1.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
