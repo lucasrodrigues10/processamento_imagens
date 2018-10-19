@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26786dee-0ec7-4303-9487-f3a0f7a0c48b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab_3/ex_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista_4/ex_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista_4/ex_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista_4/filtros_fft.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista_4/ppt_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_2/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/ex_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primeira_lista/Primeira lista de problemas.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lista_1/Primeira lista de problemas.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segunda_lista/Segunda lista de problemas.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lista_2/Segunda lista de problemas.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/Terceira lista de problemas.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/Terceira lista de problemas.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/ex4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/ex4_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/fft.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/fft.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/fft_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/fft_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/filtro.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/filtro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/filtro_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/filtro_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/messi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/messi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/neymar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/neymar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/neymar.png" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/neymar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/numpy_fft.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/numpy_fft.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/opencv_fft.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/opencv_fft.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/problema_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/problema_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terceira_lista/transformada-filtros.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista_3/transformada-filtros.py" afterDir="false" />
-    </list>
+    <list default="true" id="26786dee-0ec7-4303-9487-f3a0f7a0c48b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +95,7 @@
     <session id="2049011702">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="4" />
@@ -140,11 +116,12 @@
         <counts>
           <entry key="dummy" value="23" />
           <entry key="py" value="384" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="PLAIN_TEXT" value="35" />
           <entry key="Python" value="384" />
         </counts>
       </usages-collector>
@@ -257,11 +234,6 @@
             <path>
               <item name="processamento_imagens" type="b2602c69:ProjectViewProjectNode" />
               <item name="processamento_imagens" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="processamento_imagens" type="b2602c69:ProjectViewProjectNode" />
-              <item name="processamento_imagens" type="462c0819:PsiDirectoryNode" />
-              <item name="lista_4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -397,6 +369,9 @@
       <module name="ibagens" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista_4" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -416,6 +391,9 @@
       <module name="ibagens" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista_4" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -459,11 +437,18 @@
       <option name="presentableId" value="Default" />
       <updated>1537753808663</updated>
     </task>
+    <task id="LOCAL-00001" summary="quarta lista">
+      <created>1539908992166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539908992166</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2367223" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -520,6 +505,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="quarta lista" />
+    <option name="LAST_COMMIT_MESSAGE" value="quarta lista" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
